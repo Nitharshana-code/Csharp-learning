@@ -1,0 +1,15 @@
+E:\csharplearning\Datatypes\Datatypes\bin\Debug\net10.0\Datatypes.exe
+E:\csharplearning\Datatypes\Datatypes\bin\Debug\net10.0\Datatypes.deps.json
+E:\csharplearning\Datatypes\Datatypes\bin\Debug\net10.0\Datatypes.runtimeconfig.json
+E:\csharplearning\Datatypes\Datatypes\bin\Debug\net10.0\Datatypes.dll
+E:\csharplearning\Datatypes\Datatypes\bin\Debug\net10.0\Datatypes.pdb
+E:\csharplearning\Datatypes\Datatypes\obj\Debug\net10.0\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearning\Datatypes\Datatypes\obj\Debug\net10.0\Datatypes.AssemblyInfoInputs.cache
+E:\csharplearning\Datatypes\Datatypes\obj\Debug\net10.0\Datatypes.AssemblyInfo.cs
+E:\csharplearning\Datatypes\Datatypes\obj\Debug\net10.0\Datatypes.csproj.CoreCompileInputs.cache
+E:\csharplearning\Datatypes\Datatypes\obj\Debug\net10.0\Datatypes.dll
+E:\csharplearning\Datatypes\Datatypes\obj\Debug\net10.0\refint\Datatypes.dll
+E:\csharplearning\Datatypes\Datatypes\obj\Debug\net10.0\Datatypes.pdb
+E:\csharplearning\Datatypes\Datatypes\obj\Debug\net10.0\Datatypes.genruntimeconfig.cache
+E:\csharplearning\Datatypes\Datatypes\obj\Debug\net10.0\ref\Datatypes.dll
+E:\csharplearning\Datatypes\Datatypes\obj\Debug\net10.0\Datatypes.csproj.Up2Date
